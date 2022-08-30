@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88672" started-at="2022-08-30T07:16:53Z" finished-at="2022-08-30T07:18:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88672" started-at="2022-08-30T07:16:53Z" finished-at="2022-08-30T07:18:22Z">
+      <class name="Sample.Sample">
+        <test-method status="PASS" signature="browserLunch()[pri:0, instance:Sample.Sample@5f2108b5]" name="browserLunch" is-config="true" duration-ms="17962" started-at="2022-08-30T07:16:53Z" finished-at="2022-08-30T07:17:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLunch -->
+        <test-method status="PASS" signature="passUrl()[pri:0, instance:Sample.Sample@5f2108b5]" name="passUrl" is-config="true" duration-ms="4507" started-at="2022-08-30T07:17:11Z" finished-at="2022-08-30T07:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passUrl -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Sample.Sample@5f2108b5]" name="test" duration-ms="64744" started-at="2022-08-30T07:17:16Z" finished-at="2022-08-30T07:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="screenshot1()[pri:0, instance:Sample.Sample@5f2108b5]" name="screenshot1" is-config="true" duration-ms="227" started-at="2022-08-30T07:18:20Z" finished-at="2022-08-30T07:18:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Sample.Sample@5f2108b5]" name="closeBrowser" is-config="true" duration-ms="1192" started-at="2022-08-30T07:18:21Z" finished-at="2022-08-30T07:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Sample.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
